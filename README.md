@@ -93,9 +93,10 @@ for i in range(0,9):
 ### Original Image:
 ![Screenshot 2023-11-14 140804](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/303445db-1a9c-4c9e-993c-df8ddf2008fb)
 
-![Screenshot 2023-11-14 140832](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/8b18cd77-5f04-444a-ac71-092311b6c207)
 
 ### Global Thresholding:
+![Screenshot 2023-11-14 140832](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/8b18cd77-5f04-444a-ac71-092311b6c207)
+
 ![Screenshot 2023-11-14 141048](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/71f81cc4-9072-42ae-ac36-daf2b90d3b0b)
 
 ![Screenshot 2023-11-14 141114](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/1425d261-fab3-469d-a16f-7bb0b08dae46)
@@ -105,8 +106,6 @@ for i in range(0,9):
 ![Screenshot 2023-11-14 140923](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/fae3718c-6ad9-4284-b9c4-1de413ed0263)
 
 ![Screenshot 2023-11-14 141005](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/e61f3a8a-fb0b-42cb-973f-83fe1448ff8c)
-
-![Screenshot 2023-11-14 141015](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/c0153fa3-d3b9-4804-b485-78e46b576a89)
 
 
 ### Adaptive Thresholding:
