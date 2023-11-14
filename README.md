@@ -91,31 +91,29 @@ for i in range(0,9):
 
 ## Output:
 ### Original Image:
-![Screenshot 2023-11-14 140804](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/303445db-1a9c-4c9e-993c-df8ddf2008fb)
+![Screenshot 2023-11-14 140804](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/b79055bb-dadb-4697-927f-b84f7dcd9115)
 
 
 ### Global Thresholding:
-![Screenshot 2023-11-14 140832](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/8b18cd77-5f04-444a-ac71-092311b6c207)
+![Screenshot 2023-11-14 140832](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/6ab16627-2537-4083-91e2-3180d30aeab0)
 
-![Screenshot 2023-11-14 141048](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/71f81cc4-9072-42ae-ac36-daf2b90d3b0b)
+![Screenshot 2023-11-14 140844](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/420b3ba4-20cd-4f8d-bd34-0444a57cfaa0)
 
-![Screenshot 2023-11-14 141114](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/1425d261-fab3-469d-a16f-7bb0b08dae46)
+![Screenshot 2023-11-14 140855](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/f038e203-5477-49bb-9192-613a142a6ed5)
 
-![Screenshot 2023-11-14 140908](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/9362c7ad-fd76-4d4e-9134-b9078c0358cc)
+![Screenshot 2023-11-14 140908](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/5c3ae057-9855-479e-a8a9-409e63512487)
 
-![Screenshot 2023-11-14 140923](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/fae3718c-6ad9-4284-b9c4-1de413ed0263)
+![Screenshot 2023-11-14 140923](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/32a65e82-d009-437c-8b9a-3aa99be4aab6)
 
-![Screenshot 2023-11-14 141005](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/e61f3a8a-fb0b-42cb-973f-83fe1448ff8c)
-
+![Screenshot 2023-11-14 141005](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/39bd0b8c-d1b7-4c0c-8646-6d18413bdcdb)
 
 ### Adaptive Thresholding:
-![Screenshot 2023-11-14 141015](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/3bd339f0-0276-41b7-b049-0b4400b35b56)
+![Screenshot 2023-11-14 141015](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/d0ca7105-44ff-4b46-aa3b-3e0f1e04a896)
 
-![Screenshot 2023-11-14 141023](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/f04b662a-e140-46ac-829b-0e07efad5bb4)
-
+![Screenshot 2023-11-14 141023](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/0c5d8314-8e13-4507-a888-2e25d3562ea1)
 
 ### Optimum Global Thesholding using Otsu's Method:
-![Screenshot 2023-11-14 141114](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/f0ed1111-1f38-4c5c-9e5e-30a41dc923b5)
+![Screenshot 2023-11-14 141048](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/b909c998-9b14-465f-af72-527497b698f4)
 
 
 ## Result
