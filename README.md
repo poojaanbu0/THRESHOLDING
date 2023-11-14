@@ -93,6 +93,8 @@ for i in range(0,9):
 ### Original Image:
 ![Screenshot 2023-11-14 140804](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/303445db-1a9c-4c9e-993c-df8ddf2008fb)
 
+![Screenshot 2023-11-14 140832](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/8b18cd77-5f04-444a-ac71-092311b6c207)
+
 ### Global Thresholding:
 ![Screenshot 2023-11-14 141048](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/71f81cc4-9072-42ae-ac36-daf2b90d3b0b)
 
