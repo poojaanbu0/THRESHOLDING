@@ -91,26 +91,19 @@ for i in range(0,9):
 
 ## Output:
 ### Original Image:
-Di9 1
+![WhatsApp Image 2023-11-14 at 11 44 40_6231d6c1](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/c589b977-8100-419c-9b78-3a2d24d88d47)
 
 ### Global Thresholding:
-di9 2
+![WhatsApp Image 2023-11-14 at 11 47 08_181c2c0e](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/1f24ef69-00e8-4226-a148-f2f894dad6a0)
 
-Di9 3
-
-Di9 4
-
-Di9 5
-
-Di9 6
+![WhatsApp Image 2023-11-14 at 11 48 27_9068e49c](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/84ed801c-3c0d-49e8-b1a7-22a7d8a364aa)
 
 ### Adaptive Thresholding:
-Di9 7
-
-Di9 8
+![WhatsApp Image 2023-11-14 at 12 03 24_f3279a8c](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/d87a38fa-3db7-43be-a50f-70751aa2ae4c)
 
 ### Optimum Global Thesholding using Otsu's Method:
-Di9 9
+![WhatsApp Image 2023-11-14 at 12 07 05_7591cd36](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/a2e25c14-5694-4821-a6aa-ab1fc742fb2a)
+
 
 ## Result
 Thus the images are segmented using global thresholding, adaptive thresholding and optimum global thresholding using python and OpenCV.
