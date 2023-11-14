@@ -91,18 +91,30 @@ for i in range(0,9):
 
 ## Output:
 ### Original Image:
-![WhatsApp Image 2023-11-14 at 11 44 40_6231d6c1](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/c589b977-8100-419c-9b78-3a2d24d88d47)
+![Screenshot 2023-11-14 140804](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/303445db-1a9c-4c9e-993c-df8ddf2008fb)
 
 ### Global Thresholding:
-![WhatsApp Image 2023-11-14 at 11 47 08_181c2c0e](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/1f24ef69-00e8-4226-a148-f2f894dad6a0)
+![Screenshot 2023-11-14 141048](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/71f81cc4-9072-42ae-ac36-daf2b90d3b0b)
 
-![WhatsApp Image 2023-11-14 at 11 48 27_9068e49c](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/84ed801c-3c0d-49e8-b1a7-22a7d8a364aa)
+![Screenshot 2023-11-14 141114](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/1425d261-fab3-469d-a16f-7bb0b08dae46)
+
+![Screenshot 2023-11-14 140908](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/9362c7ad-fd76-4d4e-9134-b9078c0358cc)
+
+![Screenshot 2023-11-14 140923](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/fae3718c-6ad9-4284-b9c4-1de413ed0263)
+
+![Screenshot 2023-11-14 141005](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/e61f3a8a-fb0b-42cb-973f-83fe1448ff8c)
+
+![Screenshot 2023-11-14 141015](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/c0153fa3-d3b9-4804-b485-78e46b576a89)
+
 
 ### Adaptive Thresholding:
-![WhatsApp Image 2023-11-14 at 12 03 24_f3279a8c](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/d87a38fa-3db7-43be-a50f-70751aa2ae4c)
+![Screenshot 2023-11-14 141015](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/3bd339f0-0276-41b7-b049-0b4400b35b56)
+
+![Screenshot 2023-11-14 141023](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/f04b662a-e140-46ac-829b-0e07efad5bb4)
+
 
 ### Optimum Global Thesholding using Otsu's Method:
-![WhatsApp Image 2023-11-14 at 12 07 05_7591cd36](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/a2e25c14-5694-4821-a6aa-ab1fc742fb2a)
+![Screenshot 2023-11-14 141114](https://github.com/poojaanbu0/THRESHOLDING/assets/119390329/f0ed1111-1f38-4c5c-9e5e-30a41dc923b5)
 
 
 ## Result
