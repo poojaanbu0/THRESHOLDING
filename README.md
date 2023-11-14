@@ -37,20 +37,20 @@ Program to segment the image using global thresholding, adaptive thresholding an
 Developed By: Pooja A
 Register Number:212222240072
 ```
-```
+```python
 # Load the necessary packages:
 
 import cv2
 import matplotlib.pyplot as plt
 import numpy as np
 ```
-```
+```python
 # Read the Image and convert to grayscale:
 
 image=cv2.imread("carss.jpg")
 image1=cv2.cvtColor(image,cv2.COLOR_BGR2GRAY)
 ```
-```
+```python
 # Use Global thresholding to segment the image:
 
 ret, thresh1 = cv2.threshold(image1,100,220,cv2.THRESH_BINARY)
@@ -59,18 +59,18 @@ ret, thresh3 = cv2.threshold(image1,140,220,cv2.THRESH_TRUNC)
 ret, thresh4 = cv2.threshold(image1,100,200,cv2.THRESH_TOZERO)
 ret, thresh5 = cv2.threshold(image1,225,270,cv2.THRESH_TOZERO_INV)
 ```
-```
+```python
 # Use Adaptive thresholding to segment the image:
 
 th1 = cv2.adaptiveThreshold(image1, 255, cv2.ADAPTIVE_THRESH_MEAN_C, cv2.THRESH_BINARY, 11, 3)
 th2 = cv2.adaptiveThreshold(image1, 255, cv2.ADAPTIVE_THRESH_GAUSSIAN_C, cv2.THRESH_BINARY, 11, 3)
 ```
-```
+```python
 # Use Otsu's method to segment the image:
 
 ret2, th3 = cv2.threshold(image1, 150, 255, cv2.THRESH_BINARY+cv2.THRESH_OTSU)
 ```
-```
+```python
 # Display the results:
 
 titles=["Gray Image","Threshold Image (Binary)","Threshold Image (Binary Inverse)","Threshold Image (Truncate)",
